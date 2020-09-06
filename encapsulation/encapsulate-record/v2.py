@@ -9,4 +9,4 @@ def getRawDataOfOrganization():
 
 
 name = getRawDataOfOrganization().get("name")
-getRawDataOfOrganization['name'] = name
+getRawDataOfOrganization()['name'] = name
